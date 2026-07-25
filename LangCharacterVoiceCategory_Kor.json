@@ -1,0 +1,30 @@
+[
+    {
+        "id": "la-character_voice_category-live",
+        "data": {
+            "id": "la-character_voice_category-live",
+            "text": "라이브"
+        }
+    },
+    {
+        "id": "la-character_voice_category-member",
+        "data": {
+            "id": "la-character_voice_category-member",
+            "text": "멤버"
+        }
+    },
+    {
+        "id": "la-character_voice_category-other",
+        "data": {
+            "id": "la-character_voice_category-other",
+            "text": "기타"
+        }
+    },
+    {
+        "id": "la-character_voice_category-system",
+        "data": {
+            "id": "la-character_voice_category-system",
+            "text": "시스템"
+        }
+    }
+]
