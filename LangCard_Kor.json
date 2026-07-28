@@ -1,5 +1,40 @@
 [
     {
+        "id": "la-card_flavor-00012-5-uniq-0062-00",
+        "data": {
+            "id": "la-card_flavor-00012-5-uniq-0062-00",
+            "text": "Energetic 스플래시!"
+        }
+    },
+    {
+        "id": "la-card_flavor-00021-5-uniq-0064-00",
+        "data": {
+            "id": "la-card_flavor-00021-5-uniq-0064-00",
+            "text": "sparks sunset"
+        }
+    },
+    {
+        "id": "la-card_flavor-00022-5-uniq-0063-00",
+        "data": {
+            "id": "la-card_flavor-00022-5-uniq-0063-00",
+            "text": "파도를 두른 귀요미 Knight"
+        }
+    },
+    {
+        "id": "la-card_flavor-00026-5-uniq-0065-00",
+        "data": {
+            "id": "la-card_flavor-00026-5-uniq-0065-00",
+            "text": "한여름의 복슬복슬 플로트 타임"
+        }
+    },
+    {
+        "id": "la-card_flavor-06002-5-uniq-0066-00",
+        "data": {
+            "id": "la-card_flavor-06002-5-uniq-0066-00",
+            "text": "바닷바람에 실어 보내는 미소의 하모니"
+        }
+    },
+    {
         "id": "la-card_name-00001-3-nrml-0000-00",
         "data": {
             "id": "la-card_name-00001-3-nrml-0000-00",

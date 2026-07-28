@@ -112,6 +112,13 @@
         }
     },
     {
+        "id": "la-cd-marathon_event",
+        "data": {
+            "id": "la-cd-marathon_event",
+            "text": "메인 퀘스트 1장 4화 클리어 시 개방"
+        }
+    },
+    {
         "id": "la-cd-player_level-10",
         "data": {
             "id": "la-cd-player_level-10",

@@ -1,5 +1,75 @@
 [
     {
+        "id": "la-generated-live_passive_skill-card-00012-5-uniq-0062-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00012-5-uniq-0062-00.1-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 전체 파라미터가 11% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00012-5-uniq-0062-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00012-5-uniq-0062-00.2-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 전체 파라미터가 [highlight]15[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00021-5-uniq-0064-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00021-5-uniq-0064-00.1-description",
+            "text": "[attribute=happy]해피 타입[/attribute] 2명의 스코어 서포트 효과 8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00021-5-uniq-0064-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00021-5-uniq-0064-00.2-description",
+            "text": "[attribute=happy]해피 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00022-5-uniq-0063-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00022-5-uniq-0063-00.1-description",
+            "text": "3기생(이)가 2명 이상이면 3기생2명의 스코어 서포트 효과 9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00022-5-uniq-0063-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00022-5-uniq-0063-00.2-description",
+            "text": "3기생(이)가 2명 이상이면 3기생2명의 스코어 서포트 효과 [highlight]12[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00026-5-uniq-0065-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00026-5-uniq-0065-00.1-description",
+            "text": "[attribute=happy]해피 타입[/attribute] 2명의 스코어 서포트 효과 8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00026-5-uniq-0065-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00026-5-uniq-0065-00.2-description",
+            "text": "[attribute=happy]해피 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06002-5-uniq-0066-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06002-5-uniq-0066-00.1-description",
+            "text": "[attribute=happy]해피 타입[/attribute] 2명 이상이면 [attribute=happy]해피 타입[/attribute] 2명의 퍼포먼스가 32% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06002-5-uniq-0066-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06002-5-uniq-0066-00.2-description",
+            "text": "[attribute=happy]해피 타입[/attribute] 2명 이상이면 [attribute=happy]해피 타입[/attribute] 2명의 퍼포먼스가 [highlight]43[/highlight]% UP "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

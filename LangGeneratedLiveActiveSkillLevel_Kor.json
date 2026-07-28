@@ -28,6 +28,76 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.1-description",
+            "text": "17초마다 중간 확률로  7초 동안 스코어가 45% UP 40콤보 이상이면 스코어가 90% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.2-description",
+            "text": "17초마다 중간 확률로  7초 동안 스코어가 [highlight]55[/highlight]% UP 40콤보 이상이면 스코어가 [highlight]105[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.1-description",
+            "text": "33초마다 높은 확률로  11초 동안 스코어가 50% UP [attribute=happy]해피 타입[/attribute] 2명 이상이면 스코어가 105% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.2-description",
+            "text": "33초마다 높은 확률로  11초 동안 스코어가 [highlight]60[/highlight]% UP [attribute=happy]해피 타입[/attribute] 2명 이상이면 스코어가 [highlight]125[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.1-description",
+            "text": "21초마다 높은 확률로  7초 동안 스코어가 100% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.2-description",
+            "text": "21초마다 높은 확률로  7초 동안 스코어가 [highlight]120[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.1-description",
+            "text": "35초마다 높은 확률로  12초 동안 스코어가 50% UP [attribute=happy]해피 타입[/attribute] 2명 이상이면 스코어가 100% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.2-description",
+            "text": "35초마다 높은 확률로  12초 동안 스코어가 [highlight]60[/highlight]% UP [attribute=happy]해피 타입[/attribute] 2명 이상이면 스코어가 [highlight]120[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.1-description",
+            "text": "23초마다 중간 확률로  8초 동안 스코어가 100% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.2-description",
+            "text": "23초마다 중간 확률로  8초 동안 스코어가 [highlight]120[/highlight]% UP "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

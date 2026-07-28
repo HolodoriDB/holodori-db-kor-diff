@@ -10682,6 +10682,34 @@
         }
     },
     {
+        "id": "la-mission-marathon_event-live_clear_count",
+        "data": {
+            "id": "la-mission-marathon_event-live_clear_count",
+            "text": "이벤트 지정곡을 {0}회 클리어하자"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_play_count",
+        "data": {
+            "id": "la-mission-marathon_event-live_play_count",
+            "text": "라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_stamina_consumption",
+        "data": {
+            "id": "la-mission-marathon_event-live_stamina_consumption",
+            "text": "라이브 부스트를 총 {0} 소비하자"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_score_quantity",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_score_quantity",
+            "text": "이벤트 Pt를 {0} 획득하자"
+        }
+    },
+    {
         "id": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",
         "data": {
             "id": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",
