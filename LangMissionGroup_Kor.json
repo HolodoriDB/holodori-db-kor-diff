@@ -33,5 +33,12 @@
             "id": "la-mission_grp-mission_pass-0001-weekly",
             "text": "위클리 미션"
         }
+    },
+    {
+        "id": "la-mission_grp-training_support-260816",
+        "data": {
+            "id": "la-mission_grp-training_support-260816",
+            "text": "육성 응원 미션"
+        }
     }
 ]

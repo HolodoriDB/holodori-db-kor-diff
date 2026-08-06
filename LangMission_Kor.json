@@ -10654,6 +10654,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+            "text": "holo멤 {0}명을 개방하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+            "text": "{0}종류의 라이브를 클리어하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+            "text": "모아 쿠킹에서 {0}개의 요리를 만들자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+            "text": "줄넘기에서 점프를 {0}회 성공하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+            "text": "라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+            "text": "미니 게임 부스트를 총 {0} 소비하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+            "text": "모든 미션을 완료하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+            "text": "다 함께 라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+            "text": "holo멤이 주는 선물을 {0}회 수령하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+            "text": "holo워크를 {0}회 완료하자"
+        }
+    },
+    {
         "id": "la-mission-hidden-gacha-beginner-select-001",
         "data": {
             "id": "la-mission-hidden-gacha-beginner-select-001",
@@ -10693,6 +10763,13 @@
         "data": {
             "id": "la-mission-marathon_event-live_clear_count",
             "text": "이벤트 지정곡을 {0}회 클리어하자"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_highest_score",
+        "data": {
+            "id": "la-mission-marathon_event-live_highest_score",
+            "text": "이벤트 과제곡에서 스코어 {0}를 노리자"
         }
     },
     {
