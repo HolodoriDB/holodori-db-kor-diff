@@ -700,6 +700,13 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_relay-title",
+        "data": {
+            "id": "la-tips-hint-marathon_relay-title",
+            "text": "스포트라이트 이벤트"
+        }
+    },
+    {
         "id": "la-tips-hint-mini_game_reward_up_stamina-title",
         "data": {
             "id": "la-tips-hint-mini_game_reward_up_stamina-title",

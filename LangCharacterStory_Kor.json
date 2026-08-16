@@ -49,6 +49,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00010-002",
+        "data": {
+            "id": "la-character_story-chr-00010-002",
+            "text": "여름에 반짝이는 오니의 카와요 미소☆"
+        }
+    },
+    {
         "id": "la-character_story-chr-00011-001",
         "data": {
             "id": "la-character_story-chr-00011-001",
@@ -154,6 +161,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00028-002",
+        "data": {
+            "id": "la-character_story-chr-00028-002",
+            "text": "응나아아이♡ 공주님의 서머 풀"
+        }
+    },
+    {
         "id": "la-character_story-chr-00030-001",
         "data": {
             "id": "la-character_story-chr-00030-001",
@@ -238,6 +252,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-03004-002",
+        "data": {
+            "id": "la-character_story-chr-03004-002",
+            "text": "서머☆ 크레이지 쇼핑!"
+        }
+    },
+    {
         "id": "la-character_story-chr-03005-001",
         "data": {
             "id": "la-character_story-chr-03005-001",
@@ -280,6 +301,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-04001-002",
+        "data": {
+            "id": "la-character_story-chr-04001-002",
+            "text": "긴장Death! 사신의 비치 라이브"
+        }
+    },
+    {
         "id": "la-character_story-chr-04002-001",
         "data": {
             "id": "la-character_story-chr-04002-001",
@@ -291,6 +319,13 @@
         "data": {
             "id": "la-character_story-chr-04003-001",
             "text": "샤이 걸의 분투"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04003-002",
+        "data": {
+            "id": "la-character_story-chr-04003-002",
+            "text": "여름의 WAH더풀 데이☆"
         }
     },
     {

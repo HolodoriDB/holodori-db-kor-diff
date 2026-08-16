@@ -98,6 +98,76 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00010-5-uniq-0069-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00010-5-uniq-0069-00.1-description",
+            "text": "12초 동안 스코어 서포트 효과 100% 2기생(이)가 2명 이상이면 스킬 발동률이 40% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00010-5-uniq-0069-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00010-5-uniq-0069-00.2-description",
+            "text": "12초 동안 스코어 서포트 효과 [highlight]120[/highlight]% 2기생(이)가 2명 이상이면 스킬 발동률이 [highlight]45[/highlight]% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00028-5-uniq-0070-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00028-5-uniq-0070-00.1-description",
+            "text": "11초 동안 스코어 서포트 효과 110% 4기생(이)가 2명 이상이면 스킬 발동률이 40% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00028-5-uniq-0070-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00028-5-uniq-0070-00.2-description",
+            "text": "11초 동안 스코어 서포트 효과 [highlight]130[/highlight]% 4기생(이)가 2명 이상이면 스킬 발동률이 [highlight]50[/highlight]% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03004-5-uniq-0073-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03004-5-uniq-0073-00.1-description",
+            "text": "10초 동안 스코어 서포트 효과 135% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03004-5-uniq-0073-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03004-5-uniq-0073-00.2-description",
+            "text": "10초 동안 스코어 서포트 효과 [highlight]160[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04001-5-uniq-0071-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04001-5-uniq-0071-00.1-description",
+            "text": "14초 동안 스코어 서포트 효과 95% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04001-5-uniq-0071-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04001-5-uniq-0071-00.2-description",
+            "text": "14초 동안 스코어 서포트 효과 [highlight]115[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04003-5-uniq-0072-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04003-5-uniq-0072-00.1-description",
+            "text": "12초 동안 스코어 서포트 효과 100% Myth(이)가 2명 이상이면 스킬 발동률이 40% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04003-5-uniq-0072-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04003-5-uniq-0072-00.2-description",
+            "text": "12초 동안 스코어 서포트 효과 [highlight]120[/highlight]% Myth(이)가 2명 이상이면 스킬 발동률이 [highlight]45[/highlight]% UP"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

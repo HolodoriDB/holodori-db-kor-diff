@@ -40,5 +40,75 @@
             "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-6",
             "text": "여름 바캉스, 석양에 물들어"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01-01",
+            "text": "라이브를 위해 준비 중"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01-02",
+            "text": "세상에서 가장 뜨거운 여름, 개막!"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-02-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-02-01",
+            "text": "여름 하면 떠오르는 것은?"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-02-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-02-02",
+            "text": "바다에서 반짝이는 명추리♪"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-03-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-03-01",
+            "text": "출발! 사랑의 쇼핑♪"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-03-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-03-02",
+            "text": "당신에게 어울리는 옷은??"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-04-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-04-01",
+            "text": "공주님은 시원해지고 싶다!"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-04-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-04-02",
+            "text": "비닐 풀을 준비하라!"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05-01",
+            "text": "기대되는 외출♪"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05-02",
+            "text": "귀여운 오해♪"
+        }
     }
 ]

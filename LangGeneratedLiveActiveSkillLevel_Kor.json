@@ -126,6 +126,76 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00010-5-uniq-0069-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00010-5-uniq-0069-00.1-description",
+            "text": "27초마다 중간 확률로  10초 동안 스코어가 95% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00010-5-uniq-0069-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00010-5-uniq-0069-00.2-description",
+            "text": "27초마다 중간 확률로  10초 동안 스코어가 [highlight]115[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00028-5-uniq-0070-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00028-5-uniq-0070-00.1-description",
+            "text": "21초마다 중간 확률로  7초 동안 스코어가 105% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00028-5-uniq-0070-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00028-5-uniq-0070-00.2-description",
+            "text": "21초마다 중간 확률로  [highlight]8[/highlight]초 동안 스코어가 [highlight]110[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03004-5-uniq-0073-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03004-5-uniq-0073-00.1-description",
+            "text": "19초마다 높은 확률로  7초 동안 스코어가 90% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03004-5-uniq-0073-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03004-5-uniq-0073-00.2-description",
+            "text": "19초마다 높은 확률로  7초 동안 스코어가 [highlight]110[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04001-5-uniq-0071-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04001-5-uniq-0071-00.1-description",
+            "text": "31초마다 중간 확률로  12초 동안 스코어가 90% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04001-5-uniq-0071-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04001-5-uniq-0071-00.2-description",
+            "text": "31초마다 중간 확률로  12초 동안 스코어가 [highlight]110[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04003-5-uniq-0072-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04003-5-uniq-0072-00.1-description",
+            "text": "24초마다 중간 확률로  10초 동안 스코어가 85% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04003-5-uniq-0072-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04003-5-uniq-0072-00.2-description",
+            "text": "24초마다 중간 확률로  10초 동안 스코어가 [highlight]100[/highlight]% UP "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
