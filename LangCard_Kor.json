@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-card_flavor-00006-5-uniq-0074-00",
+        "data": {
+            "id": "la-card_flavor-00006-5-uniq-0074-00",
+            "text": "물가에서 매료하는 twinkle"
+        }
+    },
+    {
         "id": "la-card_flavor-00010-5-uniq-0069-00",
         "data": {
             "id": "la-card_flavor-00010-5-uniq-0069-00",
@@ -14,10 +21,31 @@
         }
     },
     {
+        "id": "la-card_flavor-00014-5-uniq-0075-00",
+        "data": {
+            "id": "la-card_flavor-00014-5-uniq-0075-00",
+            "text": "나른한 여름날의 Wolf Heart"
+        }
+    },
+    {
         "id": "la-card_flavor-00015-5-uniq-0067-00",
         "data": {
             "id": "la-card_flavor-00015-5-uniq-0067-00",
             "text": "해변에서 폭발하는 광채 샷!"
+        }
+    },
+    {
+        "id": "la-card_flavor-00016-5-uniq-0076-00",
+        "data": {
+            "id": "la-card_flavor-00016-5-uniq-0076-00",
+            "text": "파라솔 아래 리버티 캣"
+        }
+    },
+    {
+        "id": "la-card_flavor-00017-5-uniq-0077-00",
+        "data": {
+            "id": "la-card_flavor-00017-5-uniq-0077-00",
+            "text": "밀림을 누비는 와일드 서머!"
         }
     },
     {

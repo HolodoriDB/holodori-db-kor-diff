@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
+            "text": "【물가에서 매료하는 twinkle 후부키】SP 스킬"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
@@ -14,10 +21,31 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00014_00014-5-uniq-0075-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00014_00014-5-uniq-0075-00_myself",
+            "text": "【나른한 여름날의 Wolf Heart 미오】SP 스킬"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
             "text": "【해변에서 폭발하는 광채 샷! 미코】SP 스킬"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
+            "text": "【파라솔 아래 리버티 캣 오카유】SP 스킬"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00017_00017-5-uniq-0077-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00017_00017-5-uniq-0077-00_myself",
+            "text": "【밀림을 누비는 와일드 서머! 코로네】SP 스킬"
         }
     },
     {
@@ -256,6 +284,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00006-5-uniq-0007-00_myself",
             "text": "【여우 사당에서 콘콘콘 후부키】 SP 스킬"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00014",
+            "text": "【물가에서 매료하는 twinkle 후부키】후부키&미오"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00016",
+            "text": "【물가에서 매료하는 twinkle 후부키】후부키&오카유"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00017",
+            "text": "【물가에서 매료하는 twinkle 후부키】후부키&코로네"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00014-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00014-to-00006",
+            "text": "【물가에서 매료하는 twinkle 후부키】미오&후부키"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00016-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00016-to-00006",
+            "text": "【물가에서 매료하는 twinkle 후부키】오카유&후부키"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00017-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00017-to-00006",
+            "text": "【물가에서 매료하는 twinkle 후부키】코로네&후부키"
         }
     },
     {
@@ -525,6 +595,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00006-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00006-to-00014",
+            "text": "【나른한 여름날의 Wolf Heart 미오】후부키&미오"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00006",
+            "text": "【나른한 여름날의 Wolf Heart 미오】미오&후부키"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00016",
+            "text": "【나른한 여름날의 Wolf Heart 미오】미오&오카유"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00017",
+            "text": "【나른한 여름날의 Wolf Heart 미오】미오&코로네"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00016-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00016-to-00014",
+            "text": "【나른한 여름날의 Wolf Heart 미오】오카유&미오"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00017-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00017-to-00014",
+            "text": "【나른한 여름날의 Wolf Heart 미오】코로네&미오"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00015-5-uniq-0003-00_00015-to-00001",
         "data": {
             "id": "la-name_live_dial_voice_card_00015-5-uniq-0003-00_00015-to-00001",
@@ -602,6 +714,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00006-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00006-to-00016",
+            "text": "【파라솔 아래 리버티 캣 오카유】후부키&오카유"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00014-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00014-to-00016",
+            "text": "【파라솔 아래 리버티 캣 오카유】미오&오카유"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00006",
+            "text": "【파라솔 아래 리버티 캣 오카유】오카유&후부키"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00014",
+            "text": "【파라솔 아래 리버티 캣 오카유】오카유&미오"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00017",
+            "text": "【파라솔 아래 리버티 캣 오카유】오카유&코로네"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00017-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00017-to-00016",
+            "text": "【파라솔 아래 리버티 캣 오카유】코로네&오카유"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_00017-to-00006",
         "data": {
             "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_00017-to-00006",
@@ -627,6 +781,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_myself",
             "text": "【Go! Go! Laughing Skater 코로네】 SP 스킬"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00006-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00006-to-00017",
+            "text": "【밀림을 누비는 와일드 서머! 코로네】후부키&코로네"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00014-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00014-to-00017",
+            "text": "【밀림을 누비는 와일드 서머! 코로네】미오&코로네"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00016-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00016-to-00017",
+            "text": "【밀림을 누비는 와일드 서머! 코로네】오카유&코로네"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00006",
+            "text": "【밀림을 누비는 와일드 서머! 코로네】코로네&후부키"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00014",
+            "text": "【밀림을 누비는 와일드 서머! 코로네】코로네&미오"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00016",
+            "text": "【밀림을 누비는 와일드 서머! 코로네】코로네&오카유"
         }
     },
     {

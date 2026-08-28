@@ -98,6 +98,13 @@
         }
     },
     {
+        "id": "la-label-facility-a01-secretbase",
+        "data": {
+            "id": "la-label-facility-a01-secretbase",
+            "text": "미니 게임"
+        }
+    },
+    {
         "id": "la-label-facility-a01-station",
         "data": {
             "id": "la-label-facility-a01-station",

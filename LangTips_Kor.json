@@ -28,6 +28,20 @@
         }
     },
     {
+        "id": "la-tips-chase-quest-title",
+        "data": {
+            "id": "la-tips-chase-quest-title",
+            "text": "어둠 속 추격"
+        }
+    },
+    {
+        "id": "la-tips-chase-title",
+        "data": {
+            "id": "la-tips-chase-title",
+            "text": "어둠 속 추격"
+        }
+    },
+    {
         "id": "la-tips-circuit-title",
         "data": {
             "id": "la-tips-circuit-title",
@@ -102,6 +116,13 @@
         "data": {
             "id": "la-tips-game_screen-character_top-title",
             "text": "holo멤버"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-chase-title",
+        "data": {
+            "id": "la-tips-game_screen-chase-title",
+            "text": "어둠 속 추격"
         }
     },
     {

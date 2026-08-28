@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+            "text": "10월 이후 매달 초기화"
+        }
+    },
+    {
         "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
         "data": {
             "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
@@ -116,6 +123,13 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "메인 퀘스트 1장 4화 클리어 시 개방"
+        }
+    },
+    {
+        "id": "la-cd-perm-a01-chase",
+        "data": {
+            "id": "la-cd-perm-a01-chase",
+            "text": "어둠 속 추격"
         }
     },
     {
@@ -298,6 +312,20 @@
         "data": {
             "id": "la-cd-quest-area-a01-28-unlock-description",
             "text": "퀘스트나 라이브를 플레이하자"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29",
+        "data": {
+            "id": "la-cd-quest-area-a01-29",
+            "text": "하모니 가든의 메인 퀘스트 EP24를 클리어하면 개방"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-29-description",
+            "text": "하모니 가든의 메인 퀘스트 EP24를 클리어하면 개방할 수 있습니다"
         }
     },
     {
@@ -501,6 +529,13 @@
         "data": {
             "id": "la-locktestdesc-cd-quest-area-a01-03",
             "text": "메인 퀘스트를 진행하면 개방됩니다"
+        }
+    },
+    {
+        "id": "la-music_lock_description-m0301",
+        "data": {
+            "id": "la-music_lock_description-m0301",
+            "text": "개방 조건: 메인 퀘스트 2장 클리어"
         }
     },
     {

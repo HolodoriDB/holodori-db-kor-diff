@@ -1,5 +1,33 @@
 [
     {
+        "id": "la-mini_game-chase-description",
+        "data": {
+            "id": "la-mini_game-chase-description",
+            "text": "밤의 파크에서 술래잡기!"
+        }
+    },
+    {
+        "id": "la-mini_game-chase-name",
+        "data": {
+            "id": "la-mini_game-chase-name",
+            "text": "어둠 속 추격"
+        }
+    },
+    {
+        "id": "la-mini_game-chase-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-chase-ranking_score_type_lang_id",
+            "text": "SCORE"
+        }
+    },
+    {
+        "id": "la-mini_game-chase_game-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-chase_game-ranking_view_description_lang_id",
+            "text": "베스트 스코어 상위 100명을 표시"
+        }
+    },
+    {
         "id": "la-mini_game-circuit-description",
         "data": {
             "id": "la-mini_game-circuit-description",

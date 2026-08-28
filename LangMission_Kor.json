@@ -9835,6 +9835,48 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+            "text": "{0}회 열쇠를 씀"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+            "text": "레이저 기믹을 {0}번 해제했다"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+            "text": "{0}회 붙잡혔다"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+            "text": "구속하는 스타일이 좋아?"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+            "text": "{0}회 붙잡았다"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_win_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_win_count-description",
+            "text": "{0}회 승리"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
         "data": {
             "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
@@ -10140,6 +10182,13 @@
         "data": {
             "id": "la-mission-achievement-common-increment_login_count-description",
             "text": "{0}일 로그인"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+            "text": "{0}회 플레이"
         }
     },
     {
@@ -10654,6 +10703,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+            "text": "어둠 속 추적에서 {0}회 열쇠를 사용하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+            "text": "어둠 속 추적에서 {0}회 구속하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+            "text": "어둠 속 추적에서 {0}회 승리하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+            "text": "라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+            "text": "어둠 속 추적을 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+            "text": "미니 게임 부스트를 총 {0} 소비하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+            "text": "모든 미션을 완료하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+            "text": "다 함께 라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+            "text": "holo멤이 주는 선물을 {0}회 수령하자"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+            "text": "holo워크를 {0}회 완료하자"
+        }
+    },
+    {
         "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
         "data": {
             "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -10979,6 +11098,181 @@
         "id": "la-mission-mission_pass-0001-weekly-increment_work_start_count-name",
         "data": {
             "id": "la-mission-mission_pass-0001-weekly-increment_work_start_count-name",
+            "text": "Holo워크를 {0}회 개시하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+            "text": "멤버 Lv을 {0}회 강화하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+            "text": "비밀 트레저를 {0}개 습득하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+            "text": "라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+            "text": "미니 게임을 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+            "text": "다 함께 라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+            "text": "holo멤이 주는 선물을 {0}회 수령하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+            "text": "데일리 퀘스트를 {0}회 클리어하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+            "text": "Holo워크를 {0}회 개시하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+            "text": "네포라보 마트의 시설 Lv {0}회 상승"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+            "text": "게이머즈 스테이션의 시설 Lv {0}회 상승"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+            "text": "메가코스터의 시설 Lv {0}회 상승"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+            "text": "{0}종류의 라이브를 클리어하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+            "text": "어둠 속 추적에서 {0}회 열쇠를 사용하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+            "text": "어둠 속 추적에서 {0}회 구속하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+            "text": "멤버를 {0}회 특훈하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+            "text": "비밀 트레저를 {0}개 습득하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "text": "네포라보 마트의 Holo골드 교환에서 {0}회 교환하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+            "text": "라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+            "text": "라이브 부스트를 총 {0} 소비하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+            "text": "미니 게임을 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+            "text": "미니 게임 부스트를 총 {0} 소비하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+            "text": "다 함께 라이브를 {0}회 플레이하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+            "text": "창작 악보의 악곡을 {0}회 클리어하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+            "text": "Holo멤버 보드를 {0}개 개방하자"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
             "text": "Holo워크를 {0}회 개시하자"
         }
     },

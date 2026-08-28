@@ -168,6 +168,62 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": "12초 동안 스코어 서포트 효과 110% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": "12초 동안 스코어 서포트 효과 [highlight]135[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": "12초 동안 스코어 서포트 효과 110% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": "12초 동안 스코어 서포트 효과 [highlight]135[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": "11초 동안 스코어 서포트 효과 110% GAMERS(이)가 2명 이상이면 스킬 발동률이 40% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": "11초 동안 스코어 서포트 효과 [highlight]130[/highlight]% GAMERS(이)가 2명 이상이면 스킬 발동률이 [highlight]50[/highlight]% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": "12초 동안 스코어 서포트 효과 100% 스킬 발동률이 35% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": "12초 동안 스코어 서포트 효과 [highlight]120[/highlight]% 스킬 발동률이 [highlight]40[/highlight]% UP"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

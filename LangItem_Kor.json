@@ -896,6 +896,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+            "text": "이벤트 교환소의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+            "text": "이벤트 배지"
+        }
+    },
+    {
         "id": "la-item-event_badge-marathon_event-relay-001-all-description",
         "data": {
             "id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -1215,6 +1229,20 @@
         "data": {
             "id": "la-item-live_reward_up_stamina_recover-name",
             "text": "라이브 부스트 음료"
+        }
+    },
+    {
+        "id": "la-item-mini-game-chase-coin-description",
+        "data": {
+            "id": "la-item-mini-game-chase-coin-description",
+            "text": "하모니 가든 코인 교환소에서 상품과 교환할 수 있는 아이템."
+        }
+    },
+    {
+        "id": "la-item-mini-game-chase-coin-name",
+        "data": {
+            "id": "la-item-mini-game-chase-coin-name",
+            "text": "하모니 가든 코인"
         }
     },
     {

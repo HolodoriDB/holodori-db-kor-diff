@@ -35,6 +35,13 @@
         }
     },
     {
+        "id": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+        "data": {
+            "id": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+            "text": "네포라보 마트에 「하모니 가든 코인 교환소」가 추가되었습니다."
+        }
+    },
+    {
         "id": "la-instant_tips-jump_rope-normal",
         "data": {
             "id": "la-instant_tips-jump_rope-normal",

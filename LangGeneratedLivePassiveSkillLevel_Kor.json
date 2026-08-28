@@ -168,6 +168,62 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 스코어 서포트 효과 8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 32% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 [highlight]43[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": "GAMERS2명의 퍼포먼스가 32% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": "GAMERS2명의 퍼포먼스가 [highlight]43[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

@@ -49,6 +49,69 @@
         }
     },
     {
+        "id": "la-tips-chase-description-1",
+        "data": {
+            "id": "la-tips-chase-description-1",
+            "text": "어둠 속 추격은 <color=#ff3bc8>holoX 아지트</color>에서 언제든 즐길 수 있어!"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-2",
+        "data": {
+            "id": "la-tips-chase-description-2",
+            "text": "보상은 승패와 관계없이, 점수에 따라 획득할 수 있어!\n\n보상에는 <color=#ff3bc8>하모니 가든 코인</color>도 있어!\n\n하모니 가든 코인은 네포라보 마트에서 다양한 아이템으로 교환할 수 있어!"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-3",
+        "data": {
+            "id": "la-tips-chase-description-3",
+            "text": "랭킹에는 <color=#ff3bc8>장난꾸러기 팀・순찰대의 베스트 스코어가 각각</color> 기록돼!\n\n※베스트 스코어가 동일하면 순위는 선착순으로 결정됩니다."
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-1",
+        "data": {
+            "id": "la-tips-chase-quest-description-1",
+            "text": "어둠 속 추격은 <color=#ff3bc8>도망치는 장난꾸러기 팀</color>과 <color=#ff3bc8>붙잡는 순찰대</color>, 두 팀으로 나뉘어 대결하는 미니게임이야!"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-2",
+        "data": {
+            "id": "la-tips-chase-quest-description-2",
+            "text": "장난꾸러기 팀은 순찰대를 피해 다니면서, <color=#ff3bc8>시설을 5개 개방하면 승리</color>야!\n\n시설을 개방하려면 파크에 떨어져 있는 열쇠를 사용해야 해!\n\n▼조작 방법\n픽: 열쇠 근처에서 탭하면 열쇠를 주울 수 있어.\n\n유즈: 열쇠를 든 상태에서 시설에 가까이 가 길게 누르면 열쇠를 사용할 수 있어.\n※열쇠를 든 채 시설에 가까이 가면 버튼이 전환됩니다."
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-3",
+        "data": {
+            "id": "la-tips-chase-quest-description-3",
+            "text": "순찰대는 <color=#ff3bc8>장난꾸러기 팀을 전원 붙잡으면 승리</color>야!\n\n장난꾸러기 팀에게 가까이 다가가 「캐치」를 누르면 붙잡을 수 있어!\n\n또한 <color=#ff3bc8>제한 시간 내에 장난꾸러기 팀이 시설 5개를 개방하지 못한 경우</color>에도 순찰대가 승리해!"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-4",
+        "data": {
+            "id": "la-tips-chase-quest-description-4",
+            "text": "장난꾸러기 팀은 붙잡힌 팀원을 구조할 수 있어!\n\n<color=#ff3bc8>붙잡힌 팀원 가까이에서 「구조」를 길게 누르면</color> 구출할 수 있어!"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-5",
+        "data": {
+            "id": "la-tips-chase-quest-description-5",
+            "text": "장난꾸러기 팀은 레이저 기믹을 활용하면 경기를 유리하게 진행할 수 있어!\n\n레이저 기믹을 해제하면 <color=#ff3bc8>각 시설을 개방하는 데 필요한 열쇠의 개수를 1개 줄일 수 있어!</color>\n\n레이저 기믹은 앞에 있는 스위치 위에 올라가면 해제할 수 있어!\n\n스위치는 2개 있으며, <color=#ff3bc8>2명이 함께 올라가면 더 빨리 해제할 수 있어!</color>"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-6",
+        "data": {
+            "id": "la-tips-chase-quest-description-6",
+            "text": "순찰대는 스킬을 사용할 수 있어!\n\n사용할 수 있는 스킬은 3종류이며, 순찰대 플레이어마다 랜덤으로 배정돼!\n\n▼스킬 설명\n・스피드 UP: <color=#ff3bc8>이동 속도가 상승한다</color>\n\n・레이더: <color=#ff3bc8>근처에 있는 장난꾸러기 팀의 위치를 알 수 있다</color>\n\n・스텔스: <color=#ff3bc8>반투명 상태가 되어 장난꾸러기 팀에게 잘 보이지 않게 된다</color>\n\n※스킬은 일정 시간만 유효합니다.\n※스킬을 사용하면 게이지가 찰 때까지 사용할 수 없습니다."
+        }
+    },
+    {
         "id": "la-tips-circuit-description-1",
         "data": {
             "id": "la-tips-circuit-description-1",
@@ -360,7 +423,7 @@
         "id": "la-tips-game_screen-combo-card-game-description-4",
         "data": {
             "id": "la-tips-game_screen-combo-card-game-description-4",
-            "text": "<color=#ff3bc8>다른 플레이어가 내놓은 카드라도 「포카장!」이 가능</color>해!\n\n단, 여러 명이 동시에 「포카장!」을 해도 코인을 획득할 수 있는 건 가장 강한 역을 만든 1명뿐이야!\n\n가장 강한 역을 만든 플레이어가 여러 명이면 <color=#ff3bc8>「포카장」 당한 플레이어로부터 시계 방향으로 가장 가까운 플레이어가 우선</color>돼!"
+            "text": "<color=#ff3bc8>다른 플레이어가 내놓은 카드라도 「포카장!」이 가능</color>해!\n\n단, 여러 명이 동시에 「포카장!」을 해도 코인을 획득할 수 있는 건 가장 강한 역을 만든 1명뿐이야!\n\n가장 강한 역을 만든 플레이어가 여러 명이면 <color=#ff3bc8>「포카장!」 당한 플레이어로부터 시계 방향으로 가장 가까운 플레이어가 우선</color>돼!"
         }
     },
     {
@@ -710,7 +773,7 @@
         "id": "la-tips-game_screen-park_high_low_top-description-2",
         "data": {
             "id": "la-tips-game_screen-park_high_low_top-description-2",
-            "text": "더블 업 찬스에서는 다음에 뽑을 카드가 이전에 뽑은 카드보다 클지 작을지 맞혀봐!\n\n<color=#ff3bc8>더블 업 찬스에 성공하면 획득 코인이 배</color>가 돼!"
+            "text": "더블 업 찬스에서는 다음에 뽑을 카드가 이전에 뽑은 카드보다 「높은」지 「낮은」지 맞혀봐!\n\n▼카드의 강함\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>더블 업 찬스에 성공하면 획득 코인이 두 배</color>가 돼!"
         }
     },
     {
@@ -1718,7 +1781,7 @@
         "id": "la-tips-park-high-low-area02-description-2",
         "data": {
             "id": "la-tips-park-high-low-area02-description-2",
-            "text": "더블 업 찬스에서는 다음에 뽑을 카드가 이전에 뽑은 카드보다 클지 작을지 맞혀봐!\n\n<color=#ff3bc8>더블 업 찬스에 성공하면 획득 코인이 배</color>가 돼!"
+            "text": "더블 업 찬스에서는 다음에 뽑을 카드가 이전에 뽑은 카드보다 「높은」지 「낮은」지 맞혀봐!\n\n▼카드의 강함\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>더블 업 찬스에 성공하면 획득 코인이 두 배</color>가 돼!"
         }
     },
     {

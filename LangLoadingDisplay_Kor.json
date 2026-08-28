@@ -364,6 +364,34 @@
         }
     },
     {
+        "id": "la-loading_display-tips-mg-chase-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-text",
+            "text": "열쇠를 연속으로 사용하면 열쇠 사용 시간이 단축돼!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-title",
+            "text": "어둠 속 추격 팁 (장난꾸러기 팀)"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-text",
+            "text": "스킬 발동 타이밍을 잘 노리자!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-title",
+            "text": "어둠 속 추격 팁 (순찰대)"
+        }
+    },
+    {
         "id": "la-loading_display-tips-mg-circuit-001-text",
         "data": {
             "id": "la-loading_display-tips-mg-circuit-001-text",
