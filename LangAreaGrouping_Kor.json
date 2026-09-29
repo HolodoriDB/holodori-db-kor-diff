@@ -26,5 +26,19 @@
             "id": "la-area_group-a02-name",
             "text": "메가 스피어"
         }
+    },
+    {
+        "id": "la-area_group-a03-description",
+        "data": {
+            "id": "la-area_group-a03-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-area_group-a03-name",
+        "data": {
+            "id": "la-area_group-a03-name",
+            "text": "소다팝 라군"
+        }
     }
 ]

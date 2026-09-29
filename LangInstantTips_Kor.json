@@ -42,6 +42,13 @@
         }
     },
     {
+        "id": "la-instant_tips-fishingshop",
+        "data": {
+            "id": "la-instant_tips-fishingshop",
+            "text": "베이의 잡동사니에서 새로운 미끼를 교환할 수 있게 됐어!"
+        }
+    },
+    {
         "id": "la-instant_tips-jump_rope-normal",
         "data": {
             "id": "la-instant_tips-jump_rope-normal",
@@ -53,6 +60,27 @@
         "data": {
             "id": "la-instant_tips-jump_rope-score_attack",
             "text": "줄넘기의 스코어 어택 모드가 개방되었습니다"
+        }
+    },
+    {
+        "id": "la-instant_tips-park_fishing_rod_upgrade_lv2",
+        "data": {
+            "id": "la-instant_tips-park_fishing_rod_upgrade_lv2",
+            "text": "베이의 잡동사니에서 낚싯대를 Lv2로 강화할 수 있게 됐어!"
+        }
+    },
+    {
+        "id": "la-instant_tips-park_fishing_rod_upgrade_lv3",
+        "data": {
+            "id": "la-instant_tips-park_fishing_rod_upgrade_lv3",
+            "text": "베이의 잡동사니에서 낚싯대를 Lv3로 강화할 수 있게 됐어!"
+        }
+    },
+    {
+        "id": "la-instant_tips-park_fishing_rod_upgrade_lv4",
+        "data": {
+            "id": "la-instant_tips-park_fishing_rod_upgrade_lv4",
+            "text": "베이의 잡동사니에서 낚싯대를 Lv4로 강화할 수 있게 됐어!"
         }
     },
     {
