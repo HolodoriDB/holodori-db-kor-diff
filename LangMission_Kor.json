@@ -7,6 +7,13 @@
         }
     },
     {
+        "id": "la-increment_splash_ball_play_count",
+        "data": {
+            "id": "la-increment_splash_ball_play_count",
+            "text": "스플래시 볼을 {0}회 플레이하자"
+        }
+    },
+    {
         "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
         "data": {
             "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
@@ -11203,7 +11210,7 @@
         "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
         "data": {
             "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
-            "text": "스플래시 볼에서 {0}회 승리하자"
+            "text": "스플래시 볼을 {0}회 플레이하자"
         }
     },
     {

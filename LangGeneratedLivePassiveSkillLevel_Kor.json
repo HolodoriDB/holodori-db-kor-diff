@@ -378,6 +378,48 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 전체 파라미터가 11% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.2-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 전체 파라미터가 [highlight]15[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.1-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 32% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.2-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 [highlight]43[/highlight]% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 [attribute=cute]큐트 타입[/attribute] 2명의 테크닉이 32% UP "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.2-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 [attribute=cute]큐트 타입[/attribute] 2명의 테크닉이 [highlight]43[/highlight]% UP "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
