@@ -91,6 +91,13 @@
         }
     },
     {
+        "id": "la-card_flavor-00027-5-uniq-0092-00",
+        "data": {
+            "id": "la-card_flavor-00027-5-uniq-0092-00",
+            "text": "한가로이 보내는 나무 그늘 바캉스"
+        }
+    },
+    {
         "id": "la-card_flavor-00028-5-uniq-0070-00",
         "data": {
             "id": "la-card_flavor-00028-5-uniq-0070-00",
@@ -102,6 +109,13 @@
         "data": {
             "id": "la-card_flavor-00030-5-uniq-0089-00",
             "text": "열기를 진정시키는 힐링 한 입"
+        }
+    },
+    {
+        "id": "la-card_flavor-00032-5-uniq-0093-00",
+        "data": {
+            "id": "la-card_flavor-00032-5-uniq-0093-00",
+            "text": "일사불란 후루룩 타임"
         }
     },
     {
@@ -147,6 +161,13 @@
         }
     },
     {
+        "id": "la-card_flavor-03008-5-uniq-0095-00",
+        "data": {
+            "id": "la-card_flavor-03008-5-uniq-0095-00",
+            "text": "나무 그늘에서 자아내는 Shiny Memory"
+        }
+    },
+    {
         "id": "la-card_flavor-03009-5-uniq-0088-00",
         "data": {
             "id": "la-card_flavor-03009-5-uniq-0088-00",
@@ -179,6 +200,13 @@
         "data": {
             "id": "la-card_flavor-04013-5-uniq-0083-00",
             "text": "지성을 풍요롭게 하는 나이트 풀"
+        }
+    },
+    {
+        "id": "la-card_flavor-04014-5-uniq-0094-00",
+        "data": {
+            "id": "la-card_flavor-04014-5-uniq-0094-00",
+            "text": "미소가 눈부신 Sand castle"
         }
     },
     {
