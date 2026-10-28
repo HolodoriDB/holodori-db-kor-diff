@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-card_flavor-00007-5-uniq-0096-00",
+        "data": {
+            "id": "la-card_flavor-00007-5-uniq-0096-00",
+            "text": "말괄량이 늑대의 달콤~한 Trick"
+        }
+    },
+    {
         "id": "la-card_flavor-00010-5-uniq-0069-00",
         "data": {
             "id": "la-card_flavor-00010-5-uniq-0069-00",
@@ -161,6 +168,13 @@
         }
     },
     {
+        "id": "la-card_flavor-03007-5-uniq-0100-00",
+        "data": {
+            "id": "la-card_flavor-03007-5-uniq-0100-00",
+            "text": "변덕스러운 소녀의 두근두근 진료실"
+        }
+    },
+    {
         "id": "la-card_flavor-03008-5-uniq-0095-00",
         "data": {
             "id": "la-card_flavor-03008-5-uniq-0095-00",
@@ -210,6 +224,13 @@
         }
     },
     {
+        "id": "la-card_flavor-04015-5-uniq-0099-00",
+        "data": {
+            "id": "la-card_flavor-04015-5-uniq-0099-00",
+            "text": "매혹의 Magic Potion"
+        }
+    },
+    {
         "id": "la-card_flavor-04016-5-uniq-0079-00",
         "data": {
             "id": "la-card_flavor-04016-5-uniq-0079-00",
@@ -235,6 +256,20 @@
         "data": {
             "id": "la-card_flavor-06003-5-uniq-0091-00",
             "text": "여름 밤을 물들이는 Brilliant Smile"
+        }
+    },
+    {
+        "id": "la-card_flavor-06004-5-uniq-0098-00",
+        "data": {
+            "id": "la-card_flavor-06004-5-uniq-0098-00",
+            "text": "고귀한 뱀파이어의 취향"
+        }
+    },
+    {
+        "id": "la-card_flavor-06005-5-uniq-0097-00",
+        "data": {
+            "id": "la-card_flavor-06005-5-uniq-0097-00",
+            "text": "오늘 밤 개막! 요괴 댄싱"
         }
     },
     {
