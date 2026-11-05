@@ -1260,6 +1260,13 @@
         }
     },
     {
+        "id": "la-sdcos-03001-uniq-0114-00",
+        "data": {
+            "id": "la-sdcos-03001-uniq-0114-00",
+            "text": "꾸벅꾸벅 도토리"
+        }
+    },
+    {
         "id": "la-sdcos-03002-cmmn-0000-00",
         "data": {
             "id": "la-sdcos-03002-cmmn-0000-00",
@@ -1295,6 +1302,13 @@
         }
     },
     {
+        "id": "la-sdcos-03002-uniq-0113-00",
+        "data": {
+            "id": "la-sdcos-03002-uniq-0113-00",
+            "text": "편안한 별빛"
+        }
+    },
+    {
         "id": "la-sdcos-03003-cmmn-0000-00",
         "data": {
             "id": "la-sdcos-03003-cmmn-0000-00",
@@ -1327,6 +1341,13 @@
         "data": {
             "id": "la-sdcos-03003-uniq-0035-00",
             "text": "캔버스 이모션"
+        }
+    },
+    {
+        "id": "la-sdcos-03003-uniq-0115-00",
+        "data": {
+            "id": "la-sdcos-03003-uniq-0115-00",
+            "text": "스르륵 잠드는 햇살"
         }
     },
     {
