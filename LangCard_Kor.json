@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-card_flavor-00002-5-uniq-0104-00",
+        "data": {
+            "id": "la-card_flavor-00002-5-uniq-0104-00",
+            "text": "고성능인 나와 단풍 데이트"
+        }
+    },
+    {
         "id": "la-card_flavor-00004-5-uniq-0081-00",
         "data": {
             "id": "la-card_flavor-00004-5-uniq-0081-00",
@@ -70,6 +77,13 @@
         }
     },
     {
+        "id": "la-card_flavor-00019-5-uniq-0108-00",
+        "data": {
+            "id": "la-card_flavor-00019-5-uniq-0108-00",
+            "text": "예쁘게 단장하고 즐거운 스텝으로 산책"
+        }
+    },
+    {
         "id": "la-card_flavor-00021-5-uniq-0064-00",
         "data": {
             "id": "la-card_flavor-00021-5-uniq-0064-00",
@@ -116,6 +130,13 @@
         "data": {
             "id": "la-card_flavor-00030-5-uniq-0089-00",
             "text": "열기를 진정시키는 힐링 한 입"
+        }
+    },
+    {
+        "id": "la-card_flavor-00031-5-uniq-0105-00",
+        "data": {
+            "id": "la-card_flavor-00031-5-uniq-0105-00",
+            "text": "비타민 컬러 낙엽 샤워"
         }
     },
     {
@@ -189,6 +210,13 @@
         }
     },
     {
+        "id": "la-card_flavor-03006-5-uniq-0107-00",
+        "data": {
+            "id": "la-card_flavor-03006-5-uniq-0107-00",
+            "text": "바람 솔솔♪ 은행나무 가로수길 너머"
+        }
+    },
+    {
         "id": "la-card_flavor-03007-5-uniq-0100-00",
         "data": {
             "id": "la-card_flavor-03007-5-uniq-0100-00",
@@ -221,6 +249,13 @@
         "data": {
             "id": "la-card_flavor-04003-5-uniq-0072-00",
             "text": "파도 소리의 기억을 더듬으며"
+        }
+    },
+    {
+        "id": "la-card_flavor-04007-5-uniq-0106-00",
+        "data": {
+            "id": "la-card_flavor-04007-5-uniq-0106-00",
+            "text": "이 손에 희망의 결실을♪"
         }
     },
     {
