@@ -11179,6 +11179,34 @@
         }
     },
     {
+        "id": "la-park_talk-area-a01-30-1-1-1-00001",
+        "data": {
+            "id": "la-park_talk-area-a01-30-1-1-1-00001",
+            "text": "후후후, 오늘도 미팅 알찼다~"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a01-30-1-1-1-00002",
+        "data": {
+            "id": "la-park_talk-area-a01-30-1-1-1-00002",
+            "text": "음~ 드디어 미팅이 끝났다~~~"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a01-30-1-2-1-00001",
+        "data": {
+            "id": "la-park_talk-area-a01-30-1-2-1-00001",
+            "text": "그랜드 오픈 라이브를 향해, 아자아자 파이팅~!"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a01-30-1-2-1-00002",
+        "data": {
+            "id": "la-park_talk-area-a01-30-1-2-1-00002",
+            "text": "좋아, 특훈 열심히 하자~!"
+        }
+    },
+    {
         "id": "la-park_talk-area-a02-01-1-1-1",
         "data": {
             "id": "la-park_talk-area-a02-01-1-1-1",
@@ -14473,6 +14501,34 @@
         "data": {
             "id": "la-park_talk-area-a03-19-1-2-1-00037",
             "text": "다음은 어디를 개선하려나~?"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a03-20-1-1-1-00023",
+        "data": {
+            "id": "la-park_talk-area-a03-20-1-1-1-00023",
+            "text": "모두에게 흠뻑 젖은 마린을 보여줄게♡"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a03-20-1-1-1-06003",
+        "data": {
+            "id": "la-park_talk-area-a03-20-1-1-1-06003",
+            "text": "좋아~! 새로운 어트랙션을 공개한다아~!"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a03-20-1-2-1-00030",
+        "data": {
+            "id": "la-park_talk-area-a03-20-1-2-1-00030",
+            "text": "흠뻑 퀸은 라미의 손에~!"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a03-20-1-2-1-00034",
+        "data": {
+            "id": "la-park_talk-area-a03-20-1-2-1-00034",
+            "text": "자, 간다! 둥실둥실 파이트, 스타트!"
         }
     },
     {

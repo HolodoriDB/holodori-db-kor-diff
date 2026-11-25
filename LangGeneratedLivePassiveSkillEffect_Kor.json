@@ -308,6 +308,104 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-450-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-450-live_skill_effect_target-all.1-description",
+            "text": "전원의 스코어 서포트 효과 45%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-850-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-850-live_skill_effect_target-all.1-description",
+            "text": "전원의 퍼포먼스가 85% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-500-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-500-live_skill_effect_target-all.1-description",
+            "text": "전원의 센스가 50% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-850-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-850-live_skill_effect_target-all.1-description",
+            "text": "전원의 테크닉이 85% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 스킬 발동률이 14% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-190-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-190-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 스킬 발동률이 19% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 퍼포먼스가 34% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 퍼포먼스가 45% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-130-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-130-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 센스가 13% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-170-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-170-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 2명의 센스가 17% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 3명의 테크닉이 23% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "[attribute=cute]큐트 타입[/attribute] 3명의 테크닉이 30% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 34% UP"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-450-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-450-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 45% UP"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
         "data": {
             "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",

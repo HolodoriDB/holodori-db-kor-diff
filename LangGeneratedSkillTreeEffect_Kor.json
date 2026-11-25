@@ -14,6 +14,20 @@
         }
     },
     {
+        "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader-description",
+            "text": " 전원의 액티브 스킬 발동률이 [value/10]% UP"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi-description",
+            "text": "둥실둥실 파이트의 획득 보상량이 [value/10]% UP (NORMAL은 제외)"
+        }
+    },
+    {
         "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
         "data": {
             "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
@@ -31,7 +45,7 @@
         "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
         "data": {
             "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
-            "text": "holo멤버 스킬 습득\n20초마다 낮은 확률로  7초 동안 GOOD 이상이 PERFECT가 된다 "
+            "text": "holo멤버 스킬 습득\n20초마다 낮은 확률로 7초 동안 GOOD 이상이 PERFECT가 된다 "
         }
     },
     {
@@ -45,7 +59,7 @@
         "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
         "data": {
             "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
-            "text": "holo멤버 스킬 강화\n20초마다 중간 확률로  10초 동안 GOOD 이상이 PERFECT가 된다 "
+            "text": "holo멤버 스킬 강화\n20초마다 중간 확률로 10초 동안 GOOD 이상이 PERFECT가 된다 "
         }
     },
     {
