@@ -2,7 +2,8 @@
     {
         "id": "la-cd-absolute_park_fishing_fish_unique_count_99",
         "data": {
-            "id": "la-cd-absolute_park_fishing_fish_unique_count_99"
+            "id": "la-cd-absolute_park_fishing_fish_unique_count_99",
+            "text": "개방 조건: 물고기 99종류 낚기"
         }
     },
     {
@@ -204,7 +205,8 @@
     {
         "id": "la-cd-perm-a03-shogi",
         "data": {
-            "id": "la-cd-perm-a03-shogi"
+            "id": "la-cd-perm-a03-shogi",
+            "text": "둥실둥실 파이트"
         }
     },
     {
@@ -406,13 +408,15 @@
     {
         "id": "la-cd-quest-area-a01-30",
         "data": {
-            "id": "la-cd-quest-area-a01-30"
+            "id": "la-cd-quest-area-a01-30",
+            "text": "구역 퀘스트 「꿈의 스테이지로! 미션 개시」를 진행하면 개방"
         }
     },
     {
         "id": "la-cd-quest-area-a01-30-description",
         "data": {
-            "id": "la-cd-quest-area-a01-30-description"
+            "id": "la-cd-quest-area-a01-30-description",
+            "text": "구역 퀘스트 「꿈의 스테이지로! 미션 개시」를 진행하면 개방됩니다"
         }
     },
     {
@@ -460,13 +464,15 @@
     {
         "id": "la-cd-quest-area-a03-20",
         "data": {
-            "id": "la-cd-quest-area-a03-20"
+            "id": "la-cd-quest-area-a03-20",
+            "text": "소다팝 라군의 메인 퀘스트 EP15를 클리어해 개방"
         }
     },
     {
         "id": "la-cd-quest-area-a03-20-description",
         "data": {
-            "id": "la-cd-quest-area-a03-20-description"
+            "id": "la-cd-quest-area-a03-20-description",
+            "text": "소다팝 라군의 메인 퀘스트 EP15를 클리어하면 개방할 수 있습니다"
         }
     },
     {
